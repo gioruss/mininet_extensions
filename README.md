@@ -3,7 +3,7 @@ Some mininet extensions written in Python language.
 
 Two extensions are actually implemented:
 
-- leafandspine: this extension contains LeafAndSpine class that allow to emulate a Leaf-Spine topology. It can be used though the parameter --custom=leafandspine.py. Then use the parameter --topo to pass to the constructor three arguments: number of leaf-switches, number of spine-switches, fanout of each leaf-switch (example: --topo=leafandspine,10,4,15).
+-leafandspine: this extension contains LeafAndSpine class that allow to emulate a Leaf-Spine topology. It can be used though the parameter --custom=leafandspine.py. Then use the parameter --topo to pass to the constructor three arguments: number of leaf-switches, number of spine-switches, fanout of each leaf-switch (example: --topo=leafandspine,10,4,15).
 
 -iperfpair: this extension implements the command iperfpair. It can be launched in mininet CLI to execute two iperf tests, at the same time, between two couples of hosts. The command syntax is:
 

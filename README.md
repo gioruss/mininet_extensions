@@ -11,6 +11,7 @@ Two extensions are actually implemented:
 
  The parameters have the following meaning:
     server1: name of the host on which the first iperf server will run;
+    
     client1: name of the host on which the first iperf client will run;
     server2: name of the host on which the second iperf server will run;
     client2: name of the host on which the second iperf client will run;

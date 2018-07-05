@@ -19,4 +19,4 @@ Two extensions are actually implemented:
     transmission_time2: time that second iperf test will go on, expressed in seconds;
     time_gap: time gap between the two iperf tests, expressed in seconds.
     
-Copyright(C) 2011 by Giovanni Russotto (russottogio@gmail.com) This is free software; you can redistribute it and/or modify it for accademic and scientific purposes, including a reference to its author. This software CANNOT be used, copied, included or modified for commercial purposes. It's distributed in the hope that it will be useful but WITHOUT ANY WARRANTY!!
+Copyright(C) 2017 by Giovanni Russotto (russottogio@gmail.com) This is free software; you can redistribute it and/or modify it for accademic and scientific purposes, including a reference to its author. This software CANNOT be used, copied, included or modified for commercial purposes. It's distributed in the hope that it will be useful but WITHOUT ANY WARRANTY!!
